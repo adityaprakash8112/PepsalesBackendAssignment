@@ -18,7 +18,7 @@ You can explore and test the API collection in this Postman workspace:
 POST/sendotp:send otp on email to user.
 
 To send otp to the user.
-![send OTP API](https://drive.google.com/uc?export=view&id=1o1FTo9qBWVQKOhjgrCLNsIMKkHzcLvKt)
+![send OTP API](https://drive.google.com/file/d/1Bhf5wVKBJZe75yXT9_sVblZ1S42P75Ra/view?usp=drivesdk)
 Screenshot of verification mail received with OTP
 ![verification mail Screenshot](https://drive.google.com/uc?export=view&id=1MtUBIG9K8dmv39ptjTUmmcz1phC0r8gy)
 
